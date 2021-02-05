@@ -2,7 +2,7 @@
        INC4_32
 
 #### DEPENDENCIES
-       Adder_32, OneBitAdder
+       Adder_32, OneBitAdder, Grounder
 
 #### INPUTS
 Name | Size(Bits)
@@ -20,6 +20,7 @@ S   |     32
 
 #### AUTHOR
        Alexander T Pastoriza
+       Trevor Cickovski
 
 #### SEE ALSO
        qms(1), modclone(1)
